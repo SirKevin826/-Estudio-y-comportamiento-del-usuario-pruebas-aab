@@ -1,6 +1,6 @@
 # -Estudio-y-comportamiento-del-usuario-pruebas-aab
 
-EEn este proyecto se realizó un trabajo con los datos de una empresa ficticia emergente que vende productos alimenticios, con el propósito de investigar el comportamiento del usuario para la aplicación de la empresa.
+En este proyecto se realizó un trabajo con los datos de una empresa ficticia emergente que vende productos alimenticios, con el propósito de investigar el comportamiento del usuario para la aplicación de la empresa.
 
 Para eso, se estudió el embudo de ventas, verificar cuántos usuarios realmente llegan a esa etapa, cuantos se atascan en etapas anteriores y cuáles en particular.
 
